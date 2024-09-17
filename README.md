@@ -57,7 +57,9 @@ sudo systemctl start mongod
 
 ## Installing Dependencies
 
-Install the required libraries using the command `pip install fastapi uvicorn models pydantic database auth bson dotenv`
+Install the required libraries using the command 
+
+`pip install fastapi uvicorn models pydantic database auth bson dotenv`
 
 ## Setting up the Environment Variables
 
